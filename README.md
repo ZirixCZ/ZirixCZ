@@ -1,2 +1,1 @@
-# profileREADME
-this is a readme file which will be displayed on my profile
+![Github stats](https://github-readme-stats.vercel.app/api?username=ZirixCZ)
