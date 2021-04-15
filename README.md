@@ -3,6 +3,8 @@
 - *Contact me on discord or on my email address.*
 Zirix#4222, zirixcz@gmail.com
 
+my current goal: improving my code and efficiency.
+
 <a href="https://github.com/anuraghazra/convoychat">
 	<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZirixCZ&hide_title=true" />
 </a>
