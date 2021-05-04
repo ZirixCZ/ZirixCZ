@@ -1,6 +1,6 @@
 ## **DEVELOPER**
 **Looking for a front-end developer for your next website? Look no further! You have found the right person for the job**
-- <a href="https://www.zirix.ga/">Check out my portfolio.</a>
+- <a href="https://www.zirix.ga/">Portfolio</a>
 - *Contact me on discord or on my email address.*
 Zirix#4222, zirixcz@gmail.com
 
