@@ -4,7 +4,7 @@
 - *Contact me on discord or on my email address.*
 Zirix#4222, zirixcz@gmail.com
 
-<p>Current goals:<span><b> rewriting projects back into vanilla CSS.</b></span></p>
+<p>Current goals:<span><b> not selling any services before the service I provide is worth 10 euro, haha.</b></span></p>
 
 <a href="https://github.com/anuraghazra/convoychat">
 	<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZirixCZ&hide_title=true&theme=material-palenight" />
