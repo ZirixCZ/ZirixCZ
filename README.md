@@ -1,10 +1,10 @@
-## **DEVELOPER**
-**Looking for a front-end developer for your next website? Look no further! You have found the right person for the job**
-- <a href="https://www.zirix.ga/">Portfolio</a>
-- *Contact me on discord or on my email address.*
-Zirix#4222, zirixcz@gmail.com
+## **ABOUT ME**
+**Hello, I'm <i>@ZirixCZ</i>, you can call me Mike.**
+- <a href="https://www.zirix.ga/">My portfolio</a>
+- *Contact me on discord <i>(Zirix#4222)</i> or on my email address.*
+zirixcz@gmail.com
 
-<p>Current goals:<span><b> making websites more responsive.</b></span></p>
+<p>Currently working on:<span><b> QuincySCPETparty -> <a href="https://github.com/ZirixCZ/QuincySCPETparty">go check it out.</a></b></span></p>
 
 <a href="https://github.com/anuraghazra/convoychat">
 	<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZirixCZ&hide_title=true&theme=material-palenight" />
