@@ -4,7 +4,7 @@
 - *Contact me on discord <i>(Zirix#4222)</i> or on my email address.*
 zirixcz@gmail.com
 
-<p>Currently working on:<span><b> QuincySCPETparty -> <a href="https://github.com/ZirixCZ/QuincySCPETparty">go check it out.</a></b></span></p>
+<p>Currently working on:<span><b> quincy-scp-et -> <a href="https://github.com/ZirixCZ/quincy-scp-et">go check it out.</a></b></span></p>
 
 <a href="https://github.com/anuraghazra/convoychat">
 	<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZirixCZ&hide_title=true&theme=material-palenight" />
