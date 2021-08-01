@@ -1,6 +1,6 @@
 ## **ABOUT ME**
 **Hello, I'm <i>@ZirixCZ</i>, you can call me Mike.**
-- <a href="https://www.zirix.ga/">My portfolio</a>
+- <a href="https://zirix.ga/">My portfolio</a>
 - *Contact me on discord <i>(Zirix#4222)</i> or on my email address.*
 zirixcz@gmail.com
 
