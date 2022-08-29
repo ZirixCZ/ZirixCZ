@@ -36,7 +36,8 @@ PS: Thanks!
 ![JetBrains](https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white)
 
 ### Things I use
-![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-ffd600?style=for-the-badge&logo=linux&logoColor=black)
+![NixOS](https://img.shields.io/badge/NixOS-5363bc?style=for-the-badge&logo=nixos&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
-![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
+![Chromium](https://img.shields.io/badge/Chromium-2a4ee4?style=for-the-badge&logo=googlechrome&logoColor=white)
+![Steam](https://img.shields.io/badge/steam-0b1235.svg?style=for-the-badge&logo=steam&logoColor=white)
