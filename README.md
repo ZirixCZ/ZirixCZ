@@ -23,8 +23,9 @@ PS: Thanks!
   </a>
   
 ## 💡 Some of my projects 
+- **[Medifinder](https://github.com/ZirixCZ/Medifinder)** - Mobile application that guides you to the right doctor depending on your needs
 - **[DeltaChat](https://github.com/ZirixCZ/DeltaChat)** - Real-time IRC like chatting application
-- **[Spellit](https://github.com/ZirixCZ/Spellit)** - Game-like application for learning English fast. 
+- **[Spellit](https://github.com/ZirixCZ/Spellit)** - Game-like application for learning English fast
   
 ### Programming Languages & Technologies
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
