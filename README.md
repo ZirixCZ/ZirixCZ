@@ -22,10 +22,12 @@ PS: Thanks!
   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
   
-## 💡 Some of my projects 
+## 💡 Projects 
+- **[Přihláška do STC](https://prihlaska.studentstc.cz/)** - Internal [MicrosoftSTC](https://github.com/MicrosoftSTC) application - *[more info about STC](https://www.microsoft.com/cs-cz/education/students/stc)*
+- **[RouteMapper](https://github.com/ZirixCZ/RouteMapper)** - Web application that makes it easy for road managers to fix road related problems
 - **[Medifinder](https://github.com/ZirixCZ/Medifinder)** - Mobile application that guides you to the right doctor depending on your needs
 - **[DeltaChat](https://github.com/ZirixCZ/DeltaChat)** - Real-time IRC like chatting application
-- **[Spellit](https://github.com/ZirixCZ/Spellit)** - Game-like application for learning English fast
+- **[Spellit](https://github.com/ZirixCZ/Spellit)** - Game-like application for learning English spelling quickly
   
 ### Programming Languages & Technologies
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
