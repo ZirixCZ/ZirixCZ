@@ -23,7 +23,7 @@ PS: Thanks!
   </a>
   
 ## 💡 Projects 
-- **[Přihláška do STC](https://prihlaska.studentstc.cz/)** - Internal [MicrosoftSTC](https://github.com/MicrosoftSTC) application - *[more info about STC](https://www.microsoft.com/cs-cz/education/students/stc)*
+- **[Přihláška do STC](https://prihlaska.studentstc.cz/)** - Internal [MicrosoftSTC](https://github.com/MicrosoftSTC) application - *[learn more about STC](https://www.microsoft.com/cs-cz/education/students/stc)*
 - **[RouteMapper](https://github.com/ZirixCZ/RouteMapper)** - Web application that makes it easy for road managers to fix road related problems
 - **[Medifinder](https://github.com/ZirixCZ/Medifinder)** - Mobile application that guides you to the right doctor depending on your needs
 - **[DeltaChat](https://github.com/ZirixCZ/DeltaChat)** - Real-time IRC like chatting application
