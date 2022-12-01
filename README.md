@@ -41,7 +41,7 @@ PS: Thanks!
 
 ### Things I use
 ![Linux](https://img.shields.io/badge/Linux-ffd600?style=for-the-badge&logo=linux&logoColor=black)
+![Firefox](https://img.shields.io/badge/Firefox-E25821?style=for-the-badge&logo=firefox&logoColor=white)
 ![Fedora](https://img.shields.io/badge/Fedora-5363bc?style=for-the-badge&logo=fedora&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Chromium](https://img.shields.io/badge/Chromium-2a4ee4?style=for-the-badge&logo=googlechrome&logoColor=white)
 ![Steam](https://img.shields.io/badge/steam-0b1235.svg?style=for-the-badge&logo=steam&logoColor=white)
