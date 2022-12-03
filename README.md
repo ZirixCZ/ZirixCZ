@@ -9,7 +9,7 @@ PS: Thanks!
 
 ## 🙋 Brief introduction
   - I am a computer science student
-  - Front-end website enthusiast
+  - Front-end enthusiast
   - Loves learning new things
 ## 📫 Reach me
   <a href="mailto:zirixcz@gmail.com">
@@ -22,26 +22,29 @@ PS: Thanks!
   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
   
-## 💡 Projects 
+## 💡 Projects that are being worked on 
 - **[Přihláška do STC](https://prihlaska.studentstc.cz/)** - Internal [MicrosoftSTC](https://github.com/MicrosoftSTC) application - *[learn more about STC](https://www.microsoft.com/cs-cz/education/students/stc)*
-- **[RouteMapper](https://github.com/ZirixCZ/RouteMapper)** - Web application that makes it easy for road managers to fix road related problems
-- **[Medifinder](https://github.com/ZirixCZ/Medifinder)** - Mobile application that guides you to the right doctor depending on your needs
-- **[DeltaChat](https://github.com/ZirixCZ/DeltaChat)** - Real-time IRC like chatting application
-- **[Spellit](https://github.com/ZirixCZ/Spellit)** - Game-like application for learning English spelling quickly
+- **[SpellitGolang](https://github.com/ZirixCZ/SpellitGolang)** - Game-like application for learning English spelling quickly *(early in development)*
+- **[BSSMAP](https://github.com/ZirixCZ/BSSMap)** - Offline mobile app to help you when you need internet
 - [and many more...](https://github.com/ZirixCZ?tab=repositories)
-  
+
+## Public Archives
+- **[RouteMapper](https://github.com/ZirixCZ/RouteMapper)** - Web application that makes it easy for road managers to fix road related problems
+- **[Medifinder](https://github.com/ZirixCZ/Medifinder)** - Mobile application that guides you to the right doctor according to your needs
+- **[DeltaChat](https://github.com/ZirixCZ/DeltaChat)** - Real-time web chat application in IRC style developed with the use of websockets
+
 ### Programming Languages & Technologies
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00a7d0?style=for-the-badge&logo=Go&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)     
-**in..** ![JetBrains](http://img.shields.io/badge/-PHPStorm-181717?style=for-the-badge&logo=phpstorm&logoColor=white)
-![JetBrains](https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=Rider&logoColor=white)
-![JetBrains](https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white)
+
+**in..** ![JetBrains](http://img.shields.io/badge/-JetBrains-181717?style=for-the-badge&logo=jetbrains&logoColor=white)
 
 ### Things I use
 ![Linux](https://img.shields.io/badge/Linux-ffd600?style=for-the-badge&logo=linux&logoColor=black)
 ![Firefox](https://img.shields.io/badge/Firefox-E25821?style=for-the-badge&logo=firefox&logoColor=white)
 ![Fedora](https://img.shields.io/badge/Fedora-5363bc?style=for-the-badge&logo=fedora&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Steam](https://img.shields.io/badge/steam-0b1235.svg?style=for-the-badge&logo=steam&logoColor=white)
+![Steam](https://img.shields.io/badge/steam-1278ab.svg?style=for-the-badge&logo=steam&logoColor=white)
