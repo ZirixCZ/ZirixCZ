@@ -23,7 +23,7 @@ PS: Thanks!
   </a>
   
 ## 💡 Projects that are being worked on 
-- **[Přihláška do STC](https://prihlaska.studentstc.cz/)** - Internal [MicrosoftSTC](https://github.com/MicrosoftSTC) application - *[learn more about STC](https://www.microsoft.com/cs-cz/education/students/stc)*
+- **[Přihláška do STC](https://prihlaska.studentstc.cz/)** - Internal [StudentTraineeCenter](https://github.com/StudentTraineeCenter) application - *[learn more about STC](https://www.microsoft.com/cs-cz/education/students/stc)*
 - **[Spellcaster](https://github.com/ZirixCZ/Spellcaster)** - An online spelling application that combines the act of learning English with the excitement and engagement of playing a game.  *(early in development)*
 - **[BSSMAP](https://github.com/ZirixCZ/BSSMap)** - Offline mobile app to help you when you need internet
 - [and many more...](https://github.com/ZirixCZ?tab=repositories)
