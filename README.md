@@ -25,7 +25,6 @@ PS: Thanks!
 ## 💡 Projects that are being worked on 
 - **[Přihláška do STC](https://prihlaska.studentstc.cz/)** - Internal [StudentTraineeCenter](https://github.com/StudentTraineeCenter) application - *[learn more about STC](https://www.microsoft.com/cs-cz/education/students/stc)*
 - **[Spellcaster](https://github.com/ZirixCZ/Spellcaster)** - An online spelling application that combines the act of learning English with the excitement and engagement of playing a game.
-- **[DeltaEats](https://github.com/ZirixCZ/delta-eats-admin)** - Platform dedicated to simplifying the meal ordering process between educational institutions and restaurants.
 - [and many more...](https://github.com/ZirixCZ?tab=repositories)
 
 ## Public Archives
