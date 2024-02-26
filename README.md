@@ -18,9 +18,6 @@ PS: Thanks!
   <a href="https://www.linkedin.com/in/michal-vani%C5%A1-5290a6219/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://discord.com/users/378937948948791297">
-  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
-  </a>
   
 ## 💡 Projects that are being worked on 
 - **[Přihláška do STC](https://prihlaska.studentstc.cz/)** - Internal [StudentTraineeCenter](https://github.com/StudentTraineeCenter) application - *[learn more about STC](https://www.microsoft.com/cs-cz/education/students/stc)*
@@ -35,12 +32,11 @@ PS: Thanks!
 
 ### Programming Languages & Technologies
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-265DB2?style=for-the-badge&logo=typescript&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00a7d0?style=for-the-badge&logo=Go&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
-**in..** ![JetBrains](http://img.shields.io/badge/-JetBrains-181717?style=for-the-badge&logo=jetbrains&logoColor=white)
+**in..** ![Neovim](https://img.shields.io/badge/-Neovim-181717?style=for-the-badge&logo=neovim&logoColor=green)
 
 ### Things I use
 ![Linux](https://img.shields.io/badge/Linux-ffd600?style=for-the-badge&logo=linux&logoColor=black)
