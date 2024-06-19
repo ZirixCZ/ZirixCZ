@@ -20,15 +20,18 @@ PS: Thanks!
   </a>
   
 ## 💡 Projects that are being worked on 
-- **[Přihláška do STC](https://prihlaska.studentstc.cz/)** - Internal [StudentTraineeCenter](https://github.com/StudentTraineeCenter) application - *[learn more about STC](https://www.microsoft.com/cs-cz/education/students/stc)*
-- **[Spellcaster](https://github.com/ZirixCZ/Spellcaster)** - An online spelling application that combines the act of learning English with the excitement and engagement of playing a game.
+- **[ncspot-discord-status](https://github.com/ZirixCZ/ncspot-discord-status)** - discord rich presence for ncspot using unix sockets
+- **[nvimai](https://github.com/ZirixCZ/nvimai)** - chatgpt and ollama integration for neovim written in lua
 - [and many more...](https://github.com/ZirixCZ?tab=repositories)
 
 ## Public Archives
-- **[RouteMapper](https://github.com/ZirixCZ/RouteMapper)** - Web application that makes it easy for road managers to fix road related problems
+- **[Spellcaster](https://github.com/ZirixCZ/Spellcaster)** - An online spelling application that combines the act of learning English with the excitement and engagement of playing a game.
+- **[KLEEPZZ](https://github.com/ZirixCZ/KLEEPZZ)** - Web application that makes short clips out of long videos. Won 1st place on the Foxconn funovation hackathon.
+- **[RouteMapper](https://github.com/ZirixCZ/RouteMapper)** - Web application that makes it easy for road managers to fix road related problems. Won 1st place on the university of Hradec Králové hackathon.
 - **[Medifinder](https://github.com/ZirixCZ/Medifinder)** - Mobile application that guides you to the right doctor according to your needs
 - **[DeltaChat](https://github.com/ZirixCZ/DeltaChat)** - Real-time web chat application in IRC style developed with the use of websockets
 - **[BSSMAP](https://github.com/ZirixCZ/BSSMap)** - Offline mobile app to help you when you need internet
+- **[Přihláška do STC](https://prihlaska.studentstc.cz/)** - Internal [StudentTraineeCenter](https://github.com/StudentTraineeCenter) application - *[learn more about STC](https://www.microsoft.com/cs-cz/education/students/stc)*
 
 ### Programming Languages & Technologies
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
