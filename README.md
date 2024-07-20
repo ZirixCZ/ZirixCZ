@@ -11,6 +11,7 @@ PS: Thanks!
   - I am a computer science student
   - Front-end enthusiast
   - Loves learning new things
+  - Likes tinkering. [My dotfiles](https://github.com/ZirixCZ/dotfiles)
 ## 📫 Reach me
   <a href="mailto:zirixcz@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
