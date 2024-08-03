@@ -23,6 +23,7 @@ PS: Thanks!
 ## 💡 Projects that are being worked on 
 - **[ncspot-discord-status](https://github.com/ZirixCZ/ncspot-discord-status)** - discord rich presence for ncspot using unix sockets
 - **[nvimai](https://github.com/ZirixCZ/nvimai)** - chatgpt and ollama integration for neovim written in lua
+- **[astro-strapi-template](https://github.com/nextap-solutions/astro-strapi-template)** - website starter template using astro and the strapi content management system
 - [and many more...](https://github.com/ZirixCZ?tab=repositories)
 
 ## Public Archives
